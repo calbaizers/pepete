@@ -11,12 +11,12 @@ body{
 }
 
 header{
-    background-color: white;
+    background-color: #2ea1fe;
     padding: 20px;
 }
 
 header > h1{
-    color:#35a8ff;
+    color:white;
     text-align: center;
     font-family: sans-serif;
 }
