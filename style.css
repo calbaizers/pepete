@@ -7,7 +7,7 @@
 body{
     background-color: #22252c;
     background-image: url(fund.jpg);
-    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 header{
